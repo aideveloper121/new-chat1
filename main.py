@@ -26,7 +26,7 @@ Config=RunConfig(
 
 agent = Agent(
     name="Teacher", 
-    description="a teacher who can help you with your homework any quarryes you have and answer any question you have",
+   
     instructions="your are a professional Teacher",
     
 
